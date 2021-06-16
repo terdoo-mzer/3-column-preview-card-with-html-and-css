@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/terdoo-mzer/3-column-preview-card-with-html-and-css)
 - Live Site URL: [Add live site URL here](https://terdoo-mzer.github.io/3-column-preview-card-with-html-and-css/)
 
 ## My process
@@ -37,5 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@terdoo-mzer](https://www.frontendmentor.io/profile/terdoo-mzer)
